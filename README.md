@@ -1,5 +1,6 @@
 [![Join the chat at https://gitter.im/torch/torch7](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/torch/torch7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/torch/torch7.svg)](https://travis-ci.org/torch/torch7)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ftorch7.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ftorch7?ref=badge_shield)
 
 ## Need help? ##
 
@@ -43,3 +44,7 @@ useful utilities.
   * [Torch Blog](http://torch.ch/blog/)
   * [Torch Slides](https://github.com/soumith/cvpr2015/blob/master/cvpr-torch.pdf)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ftorch7.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ftorch7?ref=badge_large)
